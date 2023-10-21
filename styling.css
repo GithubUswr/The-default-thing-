@@ -1,0 +1,19 @@
+* { font-family: 'Times New Roman', cursive !important; }
+a:link {
+  text-decoration: underline;
+  color: blue;
+}
+
+a:visited {
+  text-decoration: underline;
+  color: purple;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+  color: red;
+}
